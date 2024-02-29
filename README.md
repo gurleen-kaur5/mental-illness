@@ -1,1 +1,7 @@
 # mental-illness
+CBP20 Self-identifying the mental health status and get guidance for support.
+Considering the increasing burden of the mental disorders (as evidenced in National Mental Health Survey-2016), it is important to identify the people at the risk of developing mental disorder at early stage to take the necessary action. Primary Health Care centre is a gate-keeper of the Indian public health care delivery system and also an opportunity to screen patient for the risk of developing mental disorders. There are some validated tools are available for screen of the person for risk of developing psychiatric disorders, however, ready availability, taking response from patients, interpretation and quick guide for taking action based on the interpretation of the tool score is still challenge for effective and efficient utilization of the screening tool. Expected Output: Mobile application for screening of mental health. Users: Public as well as Frontline Health worker.
+
+
+# Project Details
+website on mental health issues and self assesment along with guidance. provides awareness about mental health by modules and one on one mentor assistance to avoid isolation. medaitation videos for better sleep cycle and self assesment tests and quizzes to understand the scale of health issues.providance of website in every language along with speech to text feature to provide mental health care to everyone irrespective of gender, caste , creed etc. (mental health website to nurture minds)
